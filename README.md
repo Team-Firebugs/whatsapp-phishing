@@ -81,3 +81,11 @@ You can than import these tokens into your browser and log in as the person who 
    ```
    * Reload the page
    * You should be logged in as the person who scanned the QR code
+
+##Disclaimer
+
+Whatsapp messages are meant to be private. Just because the NSA reads everything it doesn't mean you should do as well! Everything in this repo is for education purpose only and I am not responsible if you use it otherwise.
+
+##Thanks
+
+Special thanks to [@niklasbuschmann](https://github.com/niklasbuschmann) who helped me with this project
