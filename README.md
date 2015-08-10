@@ -1,7 +1,7 @@
 #Whatsapp phishing
 
 This repo contains prove of principle code for running an phishing attack against the official [Whatsapp Web client](https://web.whatsapp.com).
-I also wrote about it on my [german blog](http://blog.mawalabs.de/)
+I also wrote about it on my [german blog](http://blog.mawalabs.de/whatsapp-phishing/)
 
 ##Whatsapp what?
 
