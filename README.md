@@ -1,6 +1,6 @@
 #Whatsapp phishing
 
-This repo contains prove of principle code for running an phishing attack against the official [Whatsapp Web client](https://web.whatsapp.com).
+This repo contains proof of principle code for running an phishing attack against the official [Whatsapp Web client](https://web.whatsapp.com).
 I also wrote about it on my [german blog](http://blog.mawalabs.de/whatsapp-phishing/)
 
 ##Whatsapp what?
@@ -13,7 +13,7 @@ Short: A web client for Whatsapp. You log in by scanning a QR code on there page
 
 It will extract the QR code from [Whatsapp Web](https://web.whatsapp.com) and display it on a new page.
 If someone scans the code using Whatsapp it will grab the credentials from the web client and save them in a file.
-You can use these credentials to log yourself in as the person who scanned to QR code. It's theoreticaly possible to use this for a phishing attack.
+You can use these credentials to log yourself in as the person who scanned to QR code.
 
 ##How does it work
 
