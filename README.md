@@ -1,7 +1,7 @@
 #Whatsapp phishing
 
-This repo contains proof of principle code for running an phishing attack against the official [Whatsapp Web client](https://web.whatsapp.com).
-I also wrote about it on my [german blog](http://blog.mawalabs.de/whatsapp-phishing/)
+This repo contains proof of principle code for running a phishing attack against the official [Whatsapp Web client](https://web.whatsapp.com).
+I also wrote about it on my [German blog](http://blog.mawalabs.de/whatsapp-phishing/)
 
 ##Whatsapp what?
 
@@ -56,7 +56,7 @@ You can than import these tokens into your browser and log in as the person who 
 
 ##Instructions
 
-   * Download the [selenium standalone server](http://www.seleniumhq.org/download/) jar file and install Firefox if you don't have it already.
+   * Download the [selenium standalone server](http://www.seleniumhq.org/download/) jar file and install Firefox if you don't already have it.
    * Type the following into your terminal
    
     ```
@@ -70,7 +70,7 @@ You can than import these tokens into your browser and log in as the person who 
    * Open your browser and go to [http://localhost:8080](http://localhost:8080)
    * Start Whatsapp on your smartphone, go to Menu > Whatsapp Web and scan the QR code from your browser.
    * Copy the content from the newly created secrets file
-   * Open web.whatsapp.com. (Watch out that you are not alredy logged in, maybe use incognito mode)
+   * Open web.whatsapp.com. (Watch out that you are not already logged in, maybe use incognito mode)
    * Open your developer console
    * Enter the following code:
    
